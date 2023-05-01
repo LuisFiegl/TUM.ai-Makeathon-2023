@@ -1,1 +1,9 @@
 # TUM.ai-Makeathon-2023
+The TUM.ai Makeathon 2023 was a 2-day hackathon for motivated students and young professionals to develop innovative AI solutions on real-world business cases presented by industry leaders. As part of this event, I participated in the Genistat Solar Challenge and the G-Research Quant Challenge.
+
+The Genistat Solar Challenge was my main project of this Makeathon. With 2 team colleagues I worked 48 hours on a solution to the following problem, presented to us by the swiss company Genistat:
+Due to supply chain limitations and skill shortages, most homeowners in Germany have to wait up to 1 year for a consultation appointment with solar roof experts. The supply of the current solar panel market does not match its demand. That's why we must ensure that the limited solar panel resources we have are used in the most efficient way possible! Sadly, in the current system, solar construction companies serve their customers on a first-come-first-serve basis, which is not quite optimal. A better approach would be to first evaluate which houses in Germany are best suited for solar panels. Then, panel the best-suited houses first, getting the most efficiency out of each newly installed panel, before moving on to less optimal houses. Come up with a system that can distribute solar panels in a way that maximizes the clean energy production of Germany.
+We first analyzed several publically available datasets for radiation and population density to find the most optimal locations. We then went on to also analyze the amount of available rooftops in an area, using a pre-trained image recognition model and satellite images from the Google Static Maps API. At the end we presented our results to a jury.
+
+
+The G-Research Quant Challenge was an algorithmic trading game, scheduled for 2 hours. It was designed to test analytical thinking and Python programming skills.
